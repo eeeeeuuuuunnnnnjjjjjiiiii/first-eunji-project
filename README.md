@@ -1,1 +1,1 @@
-first eunji project
+<h1>StarGym</h1>
